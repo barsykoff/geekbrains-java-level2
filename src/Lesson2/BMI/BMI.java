@@ -7,7 +7,7 @@ public class BMI {
     public enum Categories{
 
         UNDER("недостаточная масса", 18.5),
-        NORMAL("норма", 25),
+        NORMAL("нормальная масса", 25),
         OVER("избыточная масса", 30),
         OBESE("ожирение", Double.POSITIVE_INFINITY);
 
