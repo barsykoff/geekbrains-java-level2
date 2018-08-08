@@ -43,7 +43,7 @@ public class BMI {
             bd = new BigDecimal(bmi);
             for (Categories cat: Categories.values()) {
                 if (bmi < cat.getMinBMI()) {
-                    System.out.println("У пациента " + p.getName() + " " + cat.getTitle() + ", индекс массы тела равен " + bd.setScale(2, BigDecimal.ROUND_CEILING) + ".");
+                    System.out.println("У пациента " + p.getName() + " " + cat.getTitle() + ", индекс массы тела равен " + bd.setScale(2, BigDecimal.ROUND_HALF_EVEN) + ".");
                     break;
                 }
             }
