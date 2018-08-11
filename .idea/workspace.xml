@@ -60,11 +60,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyPhoneBook.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyPhoneBook.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lesson3/MyPhoneBook.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
               <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCheckPassword.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/Lesson2/Exceptions/MyExceptionsMain.java" />
         <option value="$PROJECT_DIR$/src/Lesson3/MyArrayList.java" />
         <option value="$PROJECT_DIR$/src/Lesson3/MyPhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java" />
       </list>
     </option>
   </component>
@@ -183,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyPhoneBookMain">
+  <component name="RunManager" selected="Application.MyCheckPasswordMain">
     <configuration name="DayOfWeekMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.WorkHours.DayOfWeekMain" />
       <module name="geekbrains-java-level2" />
@@ -204,12 +217,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyExceptionsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Exceptions.MyExceptionsMain" />
+    <configuration name="MyCheckPasswordMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.MyCheckPasswordMain" />
       <module name="geekbrains-java-level2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.Exceptions.*" />
+          <option name="PATTERN" value="Lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,18 +249,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.DayOfWeekMain" />
-      <item itemvalue="Application.MyExceptionsMain" />
       <item itemvalue="Application.MyArrayList" />
       <item itemvalue="Application.MyPhoneBook" />
       <item itemvalue="Application.MyPhoneBookMain" />
+      <item itemvalue="Application.MyCheckPasswordMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyCheckPasswordMain" />
         <item itemvalue="Application.MyPhoneBookMain" />
         <item itemvalue="Application.MyPhoneBook" />
         <item itemvalue="Application.MyArrayList" />
         <item itemvalue="Application.DayOfWeekMain" />
-        <item itemvalue="Application.MyExceptionsMain" />
       </list>
     </recent_temporary>
   </component>
@@ -276,13 +289,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3293011" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32819074" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32819074" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293011" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6157083" visible="true" weight="0.2532189" />
+      <window_info id="Structure" order="1" sideWeight="0.38429174" side_tool="true" visible="true" weight="0.2532189" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -440,6 +453,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
