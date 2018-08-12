@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88eecc7c-aa69-40bd-911d-68164a6ad14f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2/enum.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,38 +45,16 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson3/MyArrayList.java">
+    <leaf>
+      <file leaf-file-name="MyWindowMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lesson4/MyWindowMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="201">
+              <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyPhoneBook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lesson3/MyPhoneBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyCheckPassword.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,10 +90,12 @@
         <option value="$PROJECT_DIR$/src/Lesson3/MyArrayList.java" />
         <option value="$PROJECT_DIR$/src/Lesson3/MyPhoneBook.java" />
         <option value="$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java" />
+        <option value="$PROJECT_DIR$/src/Lesson4/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/Lesson4/MyWindowMain.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
@@ -130,9 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,25 +124,15 @@
               <item name="geekbrains-java-level2" type="b2602c69:ProjectViewProjectNode" />
               <item name="geekbrains-java-level2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geekbrains-java-level2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbrains-java-level2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson2" type="462c0819:PsiDirectoryNode" />
-              <item name="BMI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geekbrains-java-level2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geekbrains-java-level2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,17 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyCheckPasswordMain">
-    <configuration name="DayOfWeekMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.WorkHours.DayOfWeekMain" />
-      <module name="geekbrains-java-level2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson2.WorkHours.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.MyWindowMain">
     <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.MyArrayList" />
       <module name="geekbrains-java-level2" />
@@ -247,20 +202,30 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="MyWindowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4.MyWindowMain" />
+      <module name="geekbrains-java-level2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <list>
-      <item itemvalue="Application.DayOfWeekMain" />
       <item itemvalue="Application.MyArrayList" />
       <item itemvalue="Application.MyPhoneBook" />
       <item itemvalue="Application.MyPhoneBookMain" />
       <item itemvalue="Application.MyCheckPasswordMain" />
+      <item itemvalue="Application.MyWindowMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyWindowMain" />
         <item itemvalue="Application.MyCheckPasswordMain" />
         <item itemvalue="Application.MyPhoneBookMain" />
         <item itemvalue="Application.MyPhoneBook" />
         <item itemvalue="Application.MyArrayList" />
-        <item itemvalue="Application.DayOfWeekMain" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +243,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -289,13 +254,13 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3293011" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32819074" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3272727" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3293011" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6157083" visible="true" weight="0.2532189" />
-      <window_info id="Structure" order="1" sideWeight="0.38429174" side_tool="true" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6133056" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" sideWeight="0.3866944" side_tool="true" visible="true" weight="0.25679544" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -329,10 +294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,14 +329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,10 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -416,19 +365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -439,13 +375,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -453,18 +386,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyCheckPassword.java">
+    <entry file="file://$PROJECT_DIR$/src/Lesson3/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state relative-caret-position="114">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson4/MyWindowMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="78" column="32" lean-forward="true" selection-start-line="78" selection-start-column="32" selection-end-line="78" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
           </folding>
         </state>
       </provider>
