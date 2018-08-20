@@ -68,6 +68,13 @@ public class MyThreads {
         t1.start();
         t2.start();
 
+        try {
+            t1.join();
+            t2.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
         System.out.println("Время выполнения метода в два потока: " + (System.currentTimeMillis() - a) + " мс.");
 
     }
